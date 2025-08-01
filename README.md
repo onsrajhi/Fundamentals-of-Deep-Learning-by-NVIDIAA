@@ -67,5 +67,10 @@ Thanks to the instructors and open-source community for the tools, datasets, and
 
 
 ![certif](images/My Learning _ NVIDIA-1.png)
+
+
+
+
+
 ![certifm](images/My Learning _ NVIDIA-2.png)
 
