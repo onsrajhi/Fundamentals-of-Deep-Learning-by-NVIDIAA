@@ -65,4 +65,5 @@ Thanks to the instructors and open-source community for the tools, datasets, and
 
 **"This journey has deepened my passion for solving problems through AI — and it's only the beginning."**
 
+![certi](images/My%20Learning%20_%20NVIDIA-1.png)
 
